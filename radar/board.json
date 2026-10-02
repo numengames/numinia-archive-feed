@@ -1,0 +1,63 @@
+{
+ "about": "The tender radar's ranked calls: UNREVIEWED. Written by automation (AUT-069); a call enters the archive only as a record, through a reviewed pull request.",
+ "published": "2026-10-02T17:15+02:00",
+ "filter": "chance alta or media; or baja with fit alto or medio. Discards are not published.",
+ "items": [
+  {
+   "id": "sedia:CREA-MEDIA-2027-DEVVGIM",
+   "source": "SEDIA",
+   "kind": "convocatoria_ue",
+   "title": "Europa Creativa MEDIA — Desarrollo de videojuegos y contenido inmersivo 2027",
+   "buyer": "Comisión Europea (EACEA)",
+   "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/CREA-MEDIA-2027-DEVVGIM",
+   "closes": "2027-02-02 17:00 (Bruselas)",
+   "amount": "hasta 200.000 € por proyecto, suma fija; 70 % por adelantado; presupuesto total 13,5 M€",
+   "buys": "El desarrollo (idea → prototipo jugable) de un videojuego o experiencia inmersiva original con ambición comercial internacional. Puede ir sola una empresa.",
+   "fit": "alto",
+   "chance": "media",
+   "blocker": "Requisito de entrada: la empresa solicitante debe haber producido ella misma un videojuego o experiencia inmersiva TERMINADO (no acceso anticipado, no encargo para otro) y distribuido comercialmente entre 01/01/2024 y el cierre, con informe de ventas que muestre ingresos (venta, objetos dentro del juego o publicidad). Juegos gratis sin ingresos o publicados a título personal no cuentan.",
+   "why": "Si Numen Games S.L. republica sus aventuras gráficas (o pone a la venta la Temporada I de Numinia) con algún ingreso antes de febrero de 2027, cumple la entrada; el resto encaja muy bien: pago adelantado del 70 %, sin comprobación de capacidad financiera si se piden ≤60.000 €, se puede ir sin socios. Competencia europea alta.",
+   "next": "1) Republicar ya al menos una aventura como obra terminada a nombre de Numen Games S.L., con precio o anuncios (itch.io/Steam/web) y guardar el informe de ventas. 2) Registrar la empresa en el Participant Register (PIC). 3) Elegir el proyecto nuevo a desarrollar (p. ej. temporada de Numinia) y preparar la solicitud antes del 02/02/2027. Ojo: sólo se puede ser coordinador en UNA de estas cuatro (videojuegos, slate, mini-slate, coproducción).",
+   "read_from": "pliego",
+   "updated": "2026-10-02T03:25+02:00",
+   "in_archive": "OPP-2026-036"
+  },
+  {
+   "id": "placsp:20603689",
+   "source": "PLACSP-CCAA",
+   "kind": "licitacion",
+   "title": "Organización de actividades de dinamización del distrito del Gorg (contrato mixto de servicios y suministro)",
+   "buyer": "Ajuntament de Badalona",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/2c6383f1-6e76-4f2d-be56-e97ba268b405/300890017",
+   "closes": "2026-10-16 17:59",
+   "amount": "23.993,21 € sin IVA (valor estimado 47.986,42 €); garantía definitiva 5 %",
+   "buys": "Programa de actividades de dinamización del barrio del Gorg: talleres y actividades educativas, familiares y de ocio para el vecindario, con el material pedagógico incluido. Duración 1 año + 1 de prórroga.",
+   "fit": "medio",
+   "chance": "baja",
+   "blocker": "De los 100 puntos, 52 son criterios automáticos y 40 de ellos son «experiencia profesional ADICIONAL del coordinador adscrito al contrato»: un criterio que sólo puede ganar quien ya lleva años haciendo esto. Además la solvencia técnica exige designar un coordinador con al menos 2 actividades similares (talleres infantiles, animación familiar, actividades educativas o de ocio) hechas en los últimos 3 años. Facturación mínima exigida: 23.993,21 €.",
+   "why": "El objeto (talleres culturales y educativos para un distrito, OPS-018 §4) sí es del dominio de Numen, y la facturación mínima (23.993 €) está por debajo del techo de la casa. Pero 40 de los 52 puntos automáticos son el currículum del coordinador y la solvencia pide ese mismo perfil acreditado: sin una persona con dos actividades comparables documentadas, la oferta no puntúa ni pasa el filtro.",
+   "next": "Sólo tiene sentido con un socio o colaborador que aporte ese/a coordinador/a con dos actividades similares acreditadas en los últimos 3 años (art. 75 LCSP permite basar la solvencia en medios ajenos), y aun así se juega 40 puntos contra quien ya lo hace. Decisión de Pablo: si no hay nadie así a mano antes del 16/10, se deja pasar.",
+   "read_from": "anuncio",
+   "updated": "2026-10-02T03:25+02:00"
+  },
+  {
+   "id": "placsp:20602953",
+   "source": "PLACSP",
+   "kind": "licitacion",
+   "title": "Servicio de organización y gestión de la Feria Educativa de la Ciencia de Pozuelo de Alarcón",
+   "buyer": "Junta de Gobierno del Ayuntamiento de Pozuelo de Alarcón",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CDOe6vcFrh3LIx6q1oPaMg%3D%3D",
+   "closes": "2026-10-16 23:59",
+   "amount": "31.854,38 € sin IVA por DOS años (valor estimado 47.781,57 € con la prórroga); garantía definitiva 0 €",
+   "buys": "Organizar y gestionar la Feria Escolar de la Ciencia: 5 días lectivos (16-20 nov, y otra edición el curso 2027/28) con 100 escolares/día de 5º de Primaria a 2º de la ESO, una charla/demostración científica de bienvenida y 4 talleres simultáneos (ciencia experimental, tecnología aplicada —robótica y programación—, astronomía y espacio, matemáticas). El adjudicatario aporta materiales fungibles, kits robóticos, ordenadores, la imagen gráfica, el contacto con los colegios y una memoria final.",
+   "fit": "medio",
+   "chance": "baja",
+   "blocker": "El PPT exige poner a disposición del contrato «como mínimo» un auxiliar administrativo a jornada completa durante dos meses, cuatro profesionales STEAM para impartir los talleres, cuatro auxiliares de apoyo durante la feria y un conferenciante experto STEAM: Numen no tiene plantilla. Y el PCAP (Anexo I, punto 19) dice que el pago es una factura ÚNICA al terminar cada feria: hay que adelantar personal y materiales, sin anticipo.",
+   "why": "A favor: es un abierto simplificado abreviado (art. 159.6 LCSP), así que la solvencia económica y técnica NO procede (no hay facturación mínima ni trabajos previos) y la garantía es 0 €; el objeto sí es del dominio de Numen (talleres y eventos de ciencia y educación, OPS-018 §4) y los tres criterios son fórmulas puras: precio 48, propuestas ADICIONALES de talleres 30 (4 propuestas extra por cada una de las 4 temáticas = máximo) y ampliar la feria un día lectivo 22. En contra: el equipo docente mínimo y el pago al final, con sólo 15.927 €/año.",
+   "next": "Si interesa, cerrar antes del 16/10 un socio que aporte el equipo docente (empresa de talleres científicos escolares, academia STEAM, monitor de robótica) que aparezca en la oferta como subcontratista —el PCAP permite subcontratar y sólo pide indicarlo en la oferta—, y ofertar las 4 propuestas adicionales por temática (30 puntos) más el día extra (22) para compensar precio. Sin socio que ponga a los 9 profesionales, no se presenta.",
+   "read_from": "pliego",
+   "updated": "2026-10-02T03:25+02:00",
+   "in_archive": "OPP-2026-037"
+  }
+ ]
+}
