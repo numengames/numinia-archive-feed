@@ -1,6 +1,6 @@
 {
  "about": "The tender radar's ranked calls: UNREVIEWED. Written by automation (AUT-069); a call enters the archive only as a record, through a reviewed pull request.",
- "published": "2026-10-02T21:40+02:00",
+ "published": "2026-10-06T03:48+02:00",
  "filter": "chance alta or media; or baja with fit alto or medio. Discards are not published.",
  "items": [
   {
@@ -90,7 +90,7 @@
    "chance": "baja",
    "blocker": "De los 100 puntos, 52 son criterios automáticos y 40 de ellos son «experiencia profesional ADICIONAL del coordinador adscrito al contrato»: un criterio que sólo puede ganar quien ya lleva años haciendo esto. Además la solvencia técnica exige designar un coordinador con al menos 2 actividades similares (talleres infantiles, animación familiar, actividades educativas o de ocio) hechas en los últimos 3 años. Facturación mínima exigida: 23.993,21 €.",
    "why": "El objeto (talleres culturales y educativos para un distrito, OPS-018 §4) sí es del dominio de Numen, y la facturación mínima (23.993 €) está por debajo del techo de la casa. Pero 40 de los 52 puntos automáticos son el currículum del coordinador y la solvencia pide ese mismo perfil acreditado: sin una persona con dos actividades comparables documentadas, la oferta no puntúa ni pasa el filtro.",
-   "next": "Sólo tiene sentido con un socio o colaborador que aporte ese/a coordinador/a con dos actividades similares acreditadas en los últimos 3 años (art. 75 LCSP permite basar la solvencia en medios ajenos), y aun así se juega 40 puntos contra quien ya lo hace. Decisión de Pablo: si no hay nadie así a mano antes del 16/10, se deja pasar.",
+   "next": "Sólo tiene sentido con un socio o colaborador que aporte ese/a coordinador/a con dos actividades similares acreditadas en los últimos 3 años (art. 75 LCSP permite basar la solvencia en medios ajenos), y aun así se juega 40 puntos contra quien ya lo hace. Si no hay nadie así a mano antes del 16/10, se deja pasar.",
    "read_from": "anuncio",
    "updated": "2026-10-02T03:25+02:00"
   },
@@ -114,6 +114,24 @@
    "in_archive": "OPP-2026-037"
   },
   {
+   "id": "placsp:20611695",
+   "source": "PLACSP",
+   "kind": "licitacion",
+   "title": "Servicio de asistencia técnica para la producción de eventos y congresos de la Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias SAU",
+   "buyer": "Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias S.A.U.",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=wgec2VGsjjLI8aL3PRS10Q%3D%3D",
+   "closes": "2026-10-19 10:00",
+   "amount": "40.937 € sin IVA (valor estimado 204.685 € con 4 prórrogas)",
+   "buys": "Asistencia técnica para la producción de eventos y congresos: apoyo y asesoramiento técnico en la ejecución de eventos y congresos organizados por la SPGP, así como seguimiento de los mismos. Incluye captación de clientes y seguimiento de eventos.",
+   "fit": "medio",
+   "chance": "baja",
+   "blocker": "Solvencia económica: facturación anual ≥ 35.000 €. Solvencia técnica: 28.655,90 € en servicios similares en los últimos 3 años (70% de anualidad media). Personal: 1 persona con titulación universitaria, posgrado, inglés B1 y 5 años de experiencia en producción de eventos. Criterios: 45% precio, 40% cualificación profesional, 15% cualificación académica.",
+   "why": "La asistencia técnica para producción de eventos encaja con OPS-013. Pero la solvencia exige facturación ≥35k (Numen tiene <50k, posible pero justo), 28.6k en servicios similares (Numen no los tiene) y una persona con 5 años de experiencia y cualificaciones específicas. El criterio de cualificación profesional (40%) pesa más que el precio.",
+   "next": "Solo tiene sentido con un socio que aporte la persona cualificada y la solvencia técnica. Numen podría aportar la capa de gamificación/participación en eventos. Sin socio, no se presenta.",
+   "read_from": "pliego",
+   "updated": "2026-10-02T18:43+02:00"
+  },
+  {
    "id": "placsp:20611363",
    "source": "PLACSP",
    "kind": "licitacion",
@@ -132,22 +150,22 @@
    "updated": "2026-10-02T18:43+02:00"
   },
   {
-   "id": "placsp:20611695",
-   "source": "PLACSP",
+   "id": "placsp:20626114",
+   "source": "PLACSP-CCAA",
    "kind": "licitacion",
-   "title": "Servicio de asistencia técnica para la producción de eventos y congresos de la Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias SAU",
-   "buyer": "Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias S.A.U.",
-   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=wgec2VGsjjLI8aL3PRS10Q%3D%3D",
-   "closes": "2026-10-19 10:00",
-   "amount": "40.937 € sin IVA (valor estimado 204.685 € con 4 prórrogas)",
-   "buys": "Asistencia técnica para la producción de eventos y congresos: apoyo y asesoramiento técnico en la ejecución de eventos y congresos organizados por la SPGP, así como seguimiento de los mismos. Incluye captación de clientes y seguimiento de eventos.",
+   "title": "Organizacion, gestion y difusion del festival Cordoba Crea 2026 para fomentar el talento joven y el emprendimiento artistico",
+   "buyer": "Instituto Andaluz de la Juventud (Junta de Andalucia)",
+   "url": "https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc_sirec/perfiles-licitaciones/detalle-licitacion.jsf?idExpediente=1013748",
+   "closes": "2026-10-20 11:30",
+   "amount": "38.556 EUR sin IVA (46.652,76 EUR con IVA)",
+   "buys": "Tres dias de convivencia en un albergue para 60 jovenes de 18 a 35 anos interesados en emprender en el arte (formacion y mentoring para startups), una jornada de emprendimiento con seis mesas redondas y un ponente de prestigio en la Diputacion de Cordoba, y tres dias de taller intensivo de teatro para 20 jovenes con representacion final en la calle. Incluye transporte desde la provincia, manutencion, bolsas de picnic, plan de comunicacion, cartel, web de inscripciones, permisos y seguro de responsabilidad civil de 400.000 EUR.",
    "fit": "medio",
    "chance": "baja",
-   "blocker": "Solvencia económica: facturación anual ≥ 35.000 €. Solvencia técnica: 28.655,90 € en servicios similares en los últimos 3 años (70% de anualidad media). Personal: 1 persona con titulación universitaria, posgrado, inglés B1 y 5 años de experiencia en producción de eventos. Criterios: 45% precio, 40% cualificación profesional, 15% cualificación académica.",
-   "why": "La asistencia técnica para producción de eventos encaja con OPS-013. Pero la solvencia exige facturación ≥35k (Numen tiene <50k, posible pero justo), 28.6k en servicios similares (Numen no los tiene) y una persona con 5 años de experiencia y cualificaciones específicas. El criterio de cualificación profesional (40%) pesa más que el precio.",
-   "next": "Solo tiene sentido con un socio que aporte la persona cualificada y la solvencia técnica. Numen podría aportar la capa de gamificación/participación en eventos. Sin socio, no se presenta.",
+   "blocker": "El PPT exige que la licitadora cuente con un coordinador principal con 3 anos acreditados organizando eventos de emprendimiento y con formadores/mentores, dinamizadores y una entidad de teatro con experiencia acreditada (los puntos de mejora piden 5 eventos/talleres). Numen no tiene esa red de formadores ni empleados. Pago unico al final, sin anticipo ni abonos a cuenta: hay que adelantar todo el festival.",
+   "why": "Es un abierto simplificado abreviado (art. 159.6 LCSP, menos de 60.000 EUR), asi que no hay solvencia economica ni tecnica que acreditar ni clasificacion exigida; el objeto (evento de emprendimiento joven con formacion, mentoring y talleres) si es del dominio de la casa (eventos y formacion gamificada, OPS-013 y OPS-018 seccion 4). Los criterios son 65 puntos de precio y 35 de experiencia acreditada del equipo (coordinador, formadores, entidad de teatro): sin red propia, esos 35 puntos solo se rascan con un socio que los aporte. El albergue y la sede de la jornada los cede gratis la Diputacion, asi que el coste real es manutencion, transporte y honorarios.",
+   "next": "Si interesa, cerrar antes del 20/10 un socio (escuela de negocios, consultora de emprendimiento o empresa de formacion con teatro) que ponga al coordinador con 3 anos en eventos de emprendimiento y a los formadores, mentores y talleristas, e ir a por los 35 puntos de mejora; ofertar precio bajo porque el pago llega despues del evento (una sola factura, 30 dias para la conformidad). La web de inscripciones obliga a declarar conformidad con el ENS categoria basica.",
    "read_from": "pliego",
-   "updated": "2026-10-02T18:43+02:00"
+   "updated": "2026-10-06T03:25+02:00"
   }
  ]
 }
