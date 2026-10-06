@@ -1,6 +1,6 @@
 {
  "about": "The tender radar's ranked calls: UNREVIEWED. Written by automation (AUT-069); a call enters the archive only as a record, through a reviewed pull request.",
- "published": "2026-10-06T03:48+02:00",
+ "published": "2026-10-06T17:09+02:00",
  "filter": "chance alta or media; or baja with fit alto or medio. Discards are not published.",
  "items": [
   {
@@ -77,24 +77,6 @@
    "in_archive": "OPP-2026-036"
   },
   {
-   "id": "placsp:20603689",
-   "source": "PLACSP-CCAA",
-   "kind": "licitacion",
-   "title": "Organización de actividades de dinamización del distrito del Gorg (contrato mixto de servicios y suministro)",
-   "buyer": "Ajuntament de Badalona",
-   "url": "https://contractaciopublica.cat/ca/detall-publicacio/2c6383f1-6e76-4f2d-be56-e97ba268b405/300890017",
-   "closes": "2026-10-16 17:59",
-   "amount": "23.993,21 € sin IVA (valor estimado 47.986,42 €); garantía definitiva 5 %",
-   "buys": "Programa de actividades de dinamización del barrio del Gorg: talleres y actividades educativas, familiares y de ocio para el vecindario, con el material pedagógico incluido. Duración 1 año + 1 de prórroga.",
-   "fit": "medio",
-   "chance": "baja",
-   "blocker": "De los 100 puntos, 52 son criterios automáticos y 40 de ellos son «experiencia profesional ADICIONAL del coordinador adscrito al contrato»: un criterio que sólo puede ganar quien ya lleva años haciendo esto. Además la solvencia técnica exige designar un coordinador con al menos 2 actividades similares (talleres infantiles, animación familiar, actividades educativas o de ocio) hechas en los últimos 3 años. Facturación mínima exigida: 23.993,21 €.",
-   "why": "El objeto (talleres culturales y educativos para un distrito, OPS-018 §4) sí es del dominio de Numen, y la facturación mínima (23.993 €) está por debajo del techo de la casa. Pero 40 de los 52 puntos automáticos son el currículum del coordinador y la solvencia pide ese mismo perfil acreditado: sin una persona con dos actividades comparables documentadas, la oferta no puntúa ni pasa el filtro.",
-   "next": "Sólo tiene sentido con un socio o colaborador que aporte ese/a coordinador/a con dos actividades similares acreditadas en los últimos 3 años (art. 75 LCSP permite basar la solvencia en medios ajenos), y aun así se juega 40 puntos contra quien ya lo hace. Si no hay nadie así a mano antes del 16/10, se deja pasar.",
-   "read_from": "anuncio",
-   "updated": "2026-10-02T03:25+02:00"
-  },
-  {
    "id": "placsp:20602953",
    "source": "PLACSP",
    "kind": "licitacion",
@@ -114,22 +96,22 @@
    "in_archive": "OPP-2026-037"
   },
   {
-   "id": "placsp:20611695",
-   "source": "PLACSP",
+   "id": "placsp:20603689",
+   "source": "PLACSP-CCAA",
    "kind": "licitacion",
-   "title": "Servicio de asistencia técnica para la producción de eventos y congresos de la Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias SAU",
-   "buyer": "Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias S.A.U.",
-   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=wgec2VGsjjLI8aL3PRS10Q%3D%3D",
-   "closes": "2026-10-19 10:00",
-   "amount": "40.937 € sin IVA (valor estimado 204.685 € con 4 prórrogas)",
-   "buys": "Asistencia técnica para la producción de eventos y congresos: apoyo y asesoramiento técnico en la ejecución de eventos y congresos organizados por la SPGP, así como seguimiento de los mismos. Incluye captación de clientes y seguimiento de eventos.",
+   "title": "Organización de actividades de dinamización del distrito del Gorg (contrato mixto de servicios y suministro)",
+   "buyer": "Ajuntament de Badalona",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/2c6383f1-6e76-4f2d-be56-e97ba268b405/300890017",
+   "closes": "2026-10-16 17:59",
+   "amount": "23.993,21 € sin IVA (valor estimado 47.986,42 €); garantía definitiva 5 %",
+   "buys": "Programa de actividades de dinamización del barrio del Gorg: talleres y actividades educativas, familiares y de ocio para el vecindario, con el material pedagógico incluido. Duración 1 año + 1 de prórroga.",
    "fit": "medio",
    "chance": "baja",
-   "blocker": "Solvencia económica: facturación anual ≥ 35.000 €. Solvencia técnica: 28.655,90 € en servicios similares en los últimos 3 años (70% de anualidad media). Personal: 1 persona con titulación universitaria, posgrado, inglés B1 y 5 años de experiencia en producción de eventos. Criterios: 45% precio, 40% cualificación profesional, 15% cualificación académica.",
-   "why": "La asistencia técnica para producción de eventos encaja con OPS-013. Pero la solvencia exige facturación ≥35k (Numen tiene <50k, posible pero justo), 28.6k en servicios similares (Numen no los tiene) y una persona con 5 años de experiencia y cualificaciones específicas. El criterio de cualificación profesional (40%) pesa más que el precio.",
-   "next": "Solo tiene sentido con un socio que aporte la persona cualificada y la solvencia técnica. Numen podría aportar la capa de gamificación/participación en eventos. Sin socio, no se presenta.",
-   "read_from": "pliego",
-   "updated": "2026-10-02T18:43+02:00"
+   "blocker": "De los 100 puntos, 52 son criterios automáticos y 40 de ellos son «experiencia profesional ADICIONAL del coordinador adscrito al contrato»: un criterio que sólo puede ganar quien ya lleva años haciendo esto. Además la solvencia técnica exige designar un coordinador con al menos 2 actividades similares (talleres infantiles, animación familiar, actividades educativas o de ocio) hechas en los últimos 3 años. Facturación mínima exigida: 23.993,21 €.",
+   "why": "El objeto (talleres culturales y educativos para un distrito, OPS-018 §4) sí es del dominio de Numen, y la facturación mínima (23.993 €) está por debajo del techo de la casa. Pero 40 de los 52 puntos automáticos son el currículum del coordinador y la solvencia pide ese mismo perfil acreditado: sin una persona con dos actividades comparables documentadas, la oferta no puntúa ni pasa el filtro.",
+   "next": "Sólo tiene sentido con un socio o colaborador que aporte ese/a coordinador/a con dos actividades similares acreditadas en los últimos 3 años (art. 75 LCSP permite basar la solvencia en medios ajenos), y aun así se juega 40 puntos contra quien ya lo hace. Si no hay nadie así a mano antes del 16/10, se deja pasar.",
+   "read_from": "anuncio",
+   "updated": "2026-10-02T03:25+02:00"
   },
   {
    "id": "placsp:20611363",
@@ -150,6 +132,24 @@
    "updated": "2026-10-02T18:43+02:00"
   },
   {
+   "id": "placsp:20611695",
+   "source": "PLACSP",
+   "kind": "licitacion",
+   "title": "Servicio de asistencia técnica para la producción de eventos y congresos de la Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias SAU",
+   "buyer": "Sociedad Pública de Gestión y Promoción Turística y Cultural del Principado de Asturias S.A.U.",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=wgec2VGsjjLI8aL3PRS10Q%3D%3D",
+   "closes": "2026-10-19 10:00",
+   "amount": "40.937 € sin IVA (valor estimado 204.685 € con 4 prórrogas)",
+   "buys": "Asistencia técnica para la producción de eventos y congresos: apoyo y asesoramiento técnico en la ejecución de eventos y congresos organizados por la SPGP, así como seguimiento de los mismos. Incluye captación de clientes y seguimiento de eventos.",
+   "fit": "medio",
+   "chance": "baja",
+   "blocker": "Solvencia económica: facturación anual ≥ 35.000 €. Solvencia técnica: 28.655,90 € en servicios similares en los últimos 3 años (70% de anualidad media). Personal: 1 persona con titulación universitaria, posgrado, inglés B1 y 5 años de experiencia en producción de eventos. Criterios: 45% precio, 40% cualificación profesional, 15% cualificación académica.",
+   "why": "La asistencia técnica para producción de eventos encaja con OPS-013. Pero la solvencia exige facturación ≥35k (Numen tiene <50k, posible pero justo), 28.6k en servicios similares (Numen no los tiene) y una persona con 5 años de experiencia y cualificaciones específicas. El criterio de cualificación profesional (40%) pesa más que el precio.",
+   "next": "Solo tiene sentido con un socio que aporte la persona cualificada y la solvencia técnica. Numen podría aportar la capa de gamificación/participación en eventos. Sin socio, no se presenta.",
+   "read_from": "pliego",
+   "updated": "2026-10-02T18:43+02:00"
+  },
+  {
    "id": "placsp:20626114",
    "source": "PLACSP-CCAA",
    "kind": "licitacion",
@@ -166,6 +166,24 @@
    "next": "Si interesa, cerrar antes del 20/10 un socio (escuela de negocios, consultora de emprendimiento o empresa de formacion con teatro) que ponga al coordinador con 3 anos en eventos de emprendimiento y a los formadores, mentores y talleristas, e ir a por los 35 puntos de mejora; ofertar precio bajo porque el pago llega despues del evento (una sola factura, 30 dias para la conformidad). La web de inscripciones obliga a declarar conformidad con el ENS categoria basica.",
    "read_from": "pliego",
    "updated": "2026-10-06T03:25+02:00"
+  },
+  {
+   "id": "bdns:933716",
+   "source": "BDNS",
+   "kind": "subvencion",
+   "title": "Ayudas para la internacionalización del videojuego, el podcast y la cultura digital 2026 (Ministerio de Cultura)",
+   "buyer": "Ministerio de Cultura — Subsecretaría (Centro de Coordinación de Industrias Culturales)",
+   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/933716",
+   "closes": "por publicar — 15 días hábiles desde el extracto en el BOE (convocatoria registrada en BDNS el 06/10/2026, extracto aún sin publicar)",
+   "amount": "no publicado. Referencias de la línea: 850.000 € (internacionalización de videojuegos y creación digital 2023-24, sólo entidades sin ánimo de lucro) y 1,86 M€ con 35 proyectos financiados (eventos profesionales de internacionalización de las industrias culturales 2024-25, pymes)",
+   "buys": "Línea de industrias culturales del Ministerio de Cultura para llevar el videojuego, el podcast y la cultura digital españoles a los mercados internacionales: en su edición precedente (2023-24) financiaba a entidades organizadoras de plataformas, foros, ferias, festivales, congresos y encuentros profesionales del sector, y la línea hermana de eventos profesionales financiaba a pymes con proyectos de internacionalización. Las bases de la edición 2026 todavía no se han publicado.",
+   "fit": "medio",
+   "chance": "baja",
+   "blocker": "Falta la cláusula que decide: quién puede ser beneficiario y qué actividad se financia. En 2023-24 esta línea era sólo para personas jurídicas SIN ánimo de lucro que organizaban eventos del sector (Numen, sociedad mercantil, no podía ser beneficiaria); la línea de eventos profesionales 2024-25 sí era para pymes. Hasta leer el extracto del BOE no se sabe en cuál de los dos moldes cae la edición 2026, y el plazo (15 días hábiles desde la publicación del extracto) es corto.",
+   "why": "Es la línea estatal de Cultura más cercana al dominio de la casa (videojuego + podcast + cultura digital) y aparece justo cuando se esperaba la edición 2026 de las ayudas de promoción del videojuego. Si en 2026 admite pymes y financia la proyección internacional del propio producto digital (ferias, mercados, delegaciones), Numen puede presentar su proyecto con la misma lógica que la ayuda de promoción: hasta 80.000 € y pago habitualmente por adelantado. Si sigue reservada a entidades sin ánimo de lucro, la vía sería ir de la mano de una asociación del sector (DEV/AEVI o una asociación local de desarrolladores) que organice la acción.",
+   "next": "1) Vigilar en los próximos días el extracto en el BOE y la página de ayudas de industrias culturales del Ministerio (cultura.gob.es) para leer quién puede ser beneficiario y qué actividades se financian. 2) Si admite pymes: preparar en dos semanas un proyecto de internacionalización de Numinia/las aventuras (mercado destino, presupuesto, calendario) porque el plazo será de 15 días hábiles. 3) Si sólo admite entidades sin ánimo de lucro: buscar la asociación del sector que organice la acción y entrar por ahí como participante.",
+   "read_from": "ficha",
+   "updated": "2026-10-06T16:40+02:00"
   }
  ]
 }
