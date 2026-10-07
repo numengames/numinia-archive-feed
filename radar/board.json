@@ -1,6 +1,6 @@
 {
  "about": "The tender radar's ranked calls: UNREVIEWED. Written by automation (AUT-069); a call enters the archive only as a record, through a reviewed pull request.",
- "published": "2026-10-07T04:11+02:00",
+ "published": "2026-10-07T08:24+02:00",
  "filter": "chance alta or media; or baja with fit alto or medio. Discards are not published.",
  "items": [
   {
@@ -187,21 +187,21 @@
   },
   {
    "id": "bdns:933716",
-   "source": "BDNS",
+   "source": "BOE",
    "kind": "subvencion",
    "title": "Ayudas para la internacionalización del videojuego, el podcast y la cultura digital 2026 (Ministerio de Cultura)",
    "buyer": "Ministerio de Cultura — Subsecretaría (Centro de Coordinación de Industrias Culturales)",
-   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatorias/933716",
-   "closes": "por publicar — 15 días hábiles desde el extracto en el BOE (convocatoria registrada en BDNS el 06/10/2026, extracto aún sin publicar)",
-   "amount": "no publicado. Referencias de la línea: 850.000 € (internacionalización de videojuegos y creación digital 2023-24, sólo entidades sin ánimo de lucro) y 1,86 M€ con 35 proyectos financiados (eventos profesionales de internacionalización de las industrias culturales 2024-25, pymes)",
-   "buys": "Línea de industrias culturales del Ministerio de Cultura para llevar el videojuego, el podcast y la cultura digital españoles a los mercados internacionales: en su edición precedente (2023-24) financiaba a entidades organizadoras de plataformas, foros, ferias, festivales, congresos y encuentros profesionales del sector, y la línea hermana de eventos profesionales financiaba a pymes con proyectos de internacionalización. Las bases de la edición 2026 todavía no se han publicado.",
+   "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-32589",
+   "closes": "≈2026-10-29 (15 días hábiles desde el extracto del BOE, publicado el 07/10/2026; el lunes 12/10 es festivo nacional)",
+   "amount": "1.000.000 € de dotación total; máximo 100.000 € por proyecto (hasta el 80 % del coste si se piden ≤50.000 €, hasta el 60 % si se pide más). Régimen de minimis.",
+   "buys": "Apoyo a la internacionalización de la cultura digital española: videojuego en todos sus formatos, pódcast de ficción o divulgativo sobre disciplinas culturales, y realidad extendida u otras innovaciones tecnológicas para creación artística. Financia el acceso y la participación en mercados internacionales (ferias, foros, misiones, mercados profesionales) y la movilidad internacional de los agentes.",
    "fit": "medio",
    "chance": "baja",
-   "blocker": "Falta la cláusula que decide: quién puede ser beneficiario y qué actividad se financia. En 2023-24 esta línea era sólo para personas jurídicas SIN ánimo de lucro que organizaban eventos del sector (Numen, sociedad mercantil, no podía ser beneficiaria); la línea de eventos profesionales 2024-25 sí era para pymes. Hasta leer el extracto del BOE no se sabe en cuál de los dos moldes cae la edición 2026, y el plazo (15 días hábiles desde la publicación del extracto) es corto.",
-   "why": "Es la línea estatal de Cultura más cercana al dominio de la casa (videojuego + podcast + cultura digital) y aparece justo cuando se esperaba la edición 2026 de las ayudas de promoción del videojuego. Si en 2026 admite pymes y financia la proyección internacional del propio producto digital (ferias, mercados, delegaciones), Numen puede presentar su proyecto con la misma lógica que la ayuda de promoción: hasta 80.000 € y pago habitualmente por adelantado. Si sigue reservada a entidades sin ánimo de lucro, la vía sería ir de la mano de una asociación del sector (DEV/AEVI o una asociación local de desarrolladores) que organice la acción.",
-   "next": "1) Vigilar en los próximos días el extracto en el BOE y la página de ayudas de industrias culturales del Ministerio (cultura.gob.es) para leer quién puede ser beneficiario y qué actividades se financian. 2) Si admite pymes: preparar en dos semanas un proyecto de internacionalización de Numinia/las aventuras (mercado destino, presupuesto, calendario) porque el plazo será de 15 días hábiles. 3) Si sólo admite entidades sin ánimo de lucro: buscar la asociación del sector que organice la acción y entrar por ahí como participante.",
-   "read_from": "ficha",
-   "updated": "2026-10-06T16:40+02:00"
+   "blocker": "Beneficiarios: SOLO personas jurídicas SIN ÁNIMO DE LUCRO (de nacionalidad española, UE o EEE, con residencia fiscal en España). Quedan excluidas expresamente las entidades con ánimo de lucro, las personas físicas, las administraciones y las UTE/AIE. Numen Games S.L. es sociedad mercantil: no puede ser beneficiaria. El plazo (15 días hábiles desde el extracto) además es muy corto.",
+   "why": "Es la línea estatal de Cultura más cercana al dominio de la casa (videojuego + podcast + cultura digital) y el objeto encaja; pero la convocatoria 2026 ha salido reservada a entidades sin ánimo de lucro, igual que la edición 2023-24. La casa no puede presentarse por sí misma. La única vía es que una asociación del sector (DEV/AEVI o una asociación local de desarrolladores) sea la beneficiaria y organice la acción, con Numen como participante o subcontratada.",
+   "next": "1) Para Numen directamente: no hay vía, la empresa queda excluida. 2) Si interesa la internacionalización, contactar con una asociación del sector que pueda ser beneficiaria y proponerle una acción conjunta (feria o mercado internacional) antes de que se cierre el plazo. El plazo vence hacia el 29/10, así que la decisión hay que tomarla ya.",
+   "read_from": "pliego",
+   "updated": "2026-10-07T08:00+02:00"
   }
  ]
 }
