@@ -1,6 +1,6 @@
 {
  "about": "The tender radar's ranked calls: UNREVIEWED. Written by automation (AUT-069); a call enters the archive only as a record, through a reviewed pull request.",
- "published": "2026-10-06T17:09+02:00",
+ "published": "2026-10-07T04:11+02:00",
  "filter": "chance alta or media; or baja with fit alto or medio. Discards are not published.",
  "items": [
   {
@@ -77,25 +77,6 @@
    "in_archive": "OPP-2026-036"
   },
   {
-   "id": "placsp:20602953",
-   "source": "PLACSP",
-   "kind": "licitacion",
-   "title": "Servicio de organización y gestión de la Feria Educativa de la Ciencia de Pozuelo de Alarcón",
-   "buyer": "Junta de Gobierno del Ayuntamiento de Pozuelo de Alarcón",
-   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CDOe6vcFrh3LIx6q1oPaMg%3D%3D",
-   "closes": "2026-10-16 23:59",
-   "amount": "31.854,38 € sin IVA por DOS años (valor estimado 47.781,57 € con la prórroga); garantía definitiva 0 €",
-   "buys": "Organizar y gestionar la Feria Escolar de la Ciencia: 5 días lectivos (16-20 nov, y otra edición el curso 2027/28) con 100 escolares/día de 5º de Primaria a 2º de la ESO, una charla/demostración científica de bienvenida y 4 talleres simultáneos (ciencia experimental, tecnología aplicada —robótica y programación—, astronomía y espacio, matemáticas). El adjudicatario aporta materiales fungibles, kits robóticos, ordenadores, la imagen gráfica, el contacto con los colegios y una memoria final.",
-   "fit": "medio",
-   "chance": "baja",
-   "blocker": "El PPT exige poner a disposición del contrato «como mínimo» un auxiliar administrativo a jornada completa durante dos meses, cuatro profesionales STEAM para impartir los talleres, cuatro auxiliares de apoyo durante la feria y un conferenciante experto STEAM: Numen no tiene plantilla. Y el PCAP (Anexo I, punto 19) dice que el pago es una factura ÚNICA al terminar cada feria: hay que adelantar personal y materiales, sin anticipo.",
-   "why": "A favor: es un abierto simplificado abreviado (art. 159.6 LCSP), así que la solvencia económica y técnica NO procede (no hay facturación mínima ni trabajos previos) y la garantía es 0 €; el objeto sí es del dominio de Numen (talleres y eventos de ciencia y educación, OPS-018 §4) y los tres criterios son fórmulas puras: precio 48, propuestas ADICIONALES de talleres 30 (4 propuestas extra por cada una de las 4 temáticas = máximo) y ampliar la feria un día lectivo 22. En contra: el equipo docente mínimo y el pago al final, con sólo 15.927 €/año.",
-   "next": "Si interesa, cerrar antes del 16/10 un socio que aporte el equipo docente (empresa de talleres científicos escolares, academia STEAM, monitor de robótica) que aparezca en la oferta como subcontratista —el PCAP permite subcontratar y sólo pide indicarlo en la oferta—, y ofertar las 4 propuestas adicionales por temática (30 puntos) más el día extra (22) para compensar precio. Sin socio que ponga a los 9 profesionales, no se presenta.",
-   "read_from": "pliego",
-   "updated": "2026-10-02T03:25+02:00",
-   "in_archive": "OPP-2026-037"
-  },
-  {
    "id": "placsp:20603689",
    "source": "PLACSP-CCAA",
    "kind": "licitacion",
@@ -114,22 +95,23 @@
    "updated": "2026-10-02T03:25+02:00"
   },
   {
-   "id": "placsp:20611363",
+   "id": "placsp:20602953",
    "source": "PLACSP",
    "kind": "licitacion",
-   "title": "Contrato de servicios para la organización de exposición con ocasión del VIII centenario de la reconquista de Baeza",
-   "buyer": "Alcaldía del Ayuntamiento de Baeza",
-   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bGyGurSkLry5HQrHoP3G5A%3D%3D",
-   "closes": "2026-10-19 23:59",
-   "amount": "38.760,33 € sin IVA (valor estimado 38.760,33 €)",
-   "buys": "Organización de una exposición con motivo del VIII centenario de la reconquista de Baeza. Incluye coordinación técnica, montaje, desarrollo y desmontaje de la exposición.",
+   "title": "Servicio de organización y gestión de la Feria Educativa de la Ciencia de Pozuelo de Alarcón",
+   "buyer": "Junta de Gobierno del Ayuntamiento de Pozuelo de Alarcón",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CDOe6vcFrh3LIx6q1oPaMg%3D%3D",
+   "closes": "2026-10-16 23:59",
+   "amount": "31.854,38 € sin IVA por DOS años (valor estimado 47.781,57 € con la prórroga); garantía definitiva 0 €",
+   "buys": "Organizar y gestionar la Feria Escolar de la Ciencia: 5 días lectivos (16-20 nov, y otra edición el curso 2027/28) con 100 escolares/día de 5º de Primaria a 2º de la ESO, una charla/demostración científica de bienvenida y 4 talleres simultáneos (ciencia experimental, tecnología aplicada —robótica y programación—, astronomía y espacio, matemáticas). El adjudicatario aporta materiales fungibles, kits robóticos, ordenadores, la imagen gráfica, el contacto con los colegios y una memoria final.",
    "fit": "medio",
    "chance": "baja",
-   "blocker": "Solvencia técnica: al menos 2 contratos similares en los últimos 3 años (art. 90.1 a) LCSP). Solvencia económica: cifra anual de negocio, patrimonio neto y seguro de responsabilidad civil (según cláusula sexta del PCAP, no leída en detalle). Criterios: 45% precio, 40% juicio de valor, 15% coordinación técnica presencial.",
-   "why": "La organización de exposiciones culturales encaja con OPS-013 (eventos) y OPS-018 §4 (cultura, patrimonio). Pero la solvencia técnica exige 2 contratos similares en 3 años y la solvencia económica exige facturación y patrimonio. Numen no tiene empleados ni facturación significativa. El criterio de juicio de valor (40%) podría favorecer una propuesta innovadora, pero sin solvencia no se pasa el filtro.",
-   "next": "Solo tiene sentido con un socio que aporte la solvencia técnica y económica (empresa de producción de exposiciones o eventos culturales). Numen podría aportar la capa de experiencia interactiva/gamificada. Sin socio, no se presenta.",
-   "read_from": "anuncio",
-   "updated": "2026-10-02T18:43+02:00"
+   "blocker": "El PPT exige poner a disposición del contrato «como mínimo» un auxiliar administrativo a jornada completa durante dos meses, cuatro profesionales STEAM para impartir los talleres, cuatro auxiliares de apoyo durante la feria y un conferenciante experto STEAM: Numen no tiene plantilla. Y el PCAP (Anexo I, punto 19) dice que el pago es una factura ÚNICA al terminar cada feria: hay que adelantar personal y materiales, sin anticipo.",
+   "why": "A favor: es un abierto simplificado abreviado (art. 159.6 LCSP), así que la solvencia económica y técnica NO procede (no hay facturación mínima ni trabajos previos) y la garantía es 0 €; el objeto sí es del dominio de Numen (talleres y eventos de ciencia y educación, OPS-018 §4) y los tres criterios son fórmulas puras: precio 48, propuestas ADICIONALES de talleres 30 (4 propuestas extra por cada una de las 4 temáticas = máximo) y ampliar la feria un día lectivo 22. En contra: el equipo docente mínimo y el pago al final, con sólo 15.927 €/año.",
+   "next": "Si interesa, cerrar antes del 16/10 un socio que aporte el equipo docente (empresa de talleres científicos escolares, academia STEAM, monitor de robótica) que aparezca en la oferta como subcontratista —el PCAP permite subcontratar y sólo pide indicarlo en la oferta—, y ofertar las 4 propuestas adicionales por temática (30 puntos) más el día extra (22) para compensar precio. Sin socio que ponga a los 9 profesionales, no se presenta.",
+   "read_from": "pliego",
+   "updated": "2026-10-02T03:25+02:00",
+   "in_archive": "OPP-2026-037"
   },
   {
    "id": "placsp:20611695",
@@ -150,6 +132,24 @@
    "updated": "2026-10-02T18:43+02:00"
   },
   {
+   "id": "placsp:20611363",
+   "source": "PLACSP",
+   "kind": "licitacion",
+   "title": "Contrato de servicios para la organización de exposición con ocasión del VIII centenario de la reconquista de Baeza",
+   "buyer": "Alcaldía del Ayuntamiento de Baeza",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bGyGurSkLry5HQrHoP3G5A%3D%3D",
+   "closes": "2026-10-19 23:59",
+   "amount": "38.760,33 € sin IVA (valor estimado 38.760,33 €)",
+   "buys": "Organización de una exposición con motivo del VIII centenario de la reconquista de Baeza. Incluye coordinación técnica, montaje, desarrollo y desmontaje de la exposición.",
+   "fit": "medio",
+   "chance": "baja",
+   "blocker": "Solvencia técnica: al menos 2 contratos similares en los últimos 3 años (art. 90.1 a) LCSP). Solvencia económica: cifra anual de negocio, patrimonio neto y seguro de responsabilidad civil (según cláusula sexta del PCAP, no leída en detalle). Criterios: 45% precio, 40% juicio de valor, 15% coordinación técnica presencial.",
+   "why": "La organización de exposiciones culturales encaja con OPS-013 (eventos) y OPS-018 §4 (cultura, patrimonio). Pero la solvencia técnica exige 2 contratos similares en 3 años y la solvencia económica exige facturación y patrimonio. Numen no tiene empleados ni facturación significativa. El criterio de juicio de valor (40%) podría favorecer una propuesta innovadora, pero sin solvencia no se pasa el filtro.",
+   "next": "Solo tiene sentido con un socio que aporte la solvencia técnica y económica (empresa de producción de exposiciones o eventos culturales). Numen podría aportar la capa de experiencia interactiva/gamificada. Sin socio, no se presenta.",
+   "read_from": "anuncio",
+   "updated": "2026-10-02T18:43+02:00"
+  },
+  {
    "id": "placsp:20626114",
    "source": "PLACSP-CCAA",
    "kind": "licitacion",
@@ -166,6 +166,24 @@
    "next": "Si interesa, cerrar antes del 20/10 un socio (escuela de negocios, consultora de emprendimiento o empresa de formacion con teatro) que ponga al coordinador con 3 anos en eventos de emprendimiento y a los formadores, mentores y talleristas, e ir a por los 35 puntos de mejora; ofertar precio bajo porque el pago llega despues del evento (una sola factura, 30 dias para la conformidad). La web de inscripciones obliga a declarar conformidad con el ENS categoria basica.",
    "read_from": "pliego",
    "updated": "2026-10-06T03:25+02:00"
+  },
+  {
+   "id": "placsp:20635661",
+   "source": "PLACSP-CCAA",
+   "kind": "licitacion",
+   "title": "Conceptualitzacio, disseny, produccio i posada en marxa d'una exposicio itinerant sobre els espais naturals i els envasos d'un sol us (Agencia de Residus de Catalunya)",
+   "buyer": "Agencia de Residus de Catalunya (Generalitat de Catalunya)",
+   "url": "https://contractaciopublica.cat/ca/detall-publicacio/643a2ef0-74df-46f3-8115-0227fc4c7b8e/300900661",
+   "closes": "2026-10-21 08:00",
+   "amount": "139.500 EUR sin IVA (168.795 EUR con IVA); garantia definitiva 5 %",
+   "buys": "Conceptualizar, disenar, producir y poner en marcha una exposicion itinerante de divulgacion y sensibilizacion sobre los espacios naturales y, en especial, los envases de un solo uso. Los criterios de juicio de valor son la calidad y coherencia de la propuesta expositiva (10), la aplicacion de los principios del Diseno Universal para el Aprendizaje en el diseno, los materiales y las actividades (5), la creacion de recursos que permitan personalizar el aprendizaje y atender la diversidad del alumnado (5) y mejoras (5). Duracion: de la formalizacion al 31/12/2026, con una prorroga de 3 meses prevista.",
+   "fit": "medio",
+   "chance": "baja",
+   "blocker": "Es una exposicion fisica itinerante: hay que producir los modulos, transportarlos y montarlos, y la solvencia tecnica pide una relacion de servicios o trabajos de la misma naturaleza (organizacion de exposiciones) en los ultimos tres anos, mas un seguro de responsabilidad civil de 139.500 EUR. Los 26 puntos de experiencia del equipo tecnico y los 25 de juicio de valor premian a quien ya hace exposiciones didacticas. Ademas la plataforma catalana no deja descargar el PCAP/PPT (401 sin certificado), asi que la lectura se queda en la ficha del anuncio.",
+   "why": "La parte conceptual y educativa (concepto expositivo, DUA, recursos de aprendizaje personalizados, actividades) si es del dominio de la casa: cultura, ciencia y educacion, y la capa de experiencia interactiva es lo que Numen sabe hacer. El montaje fisico y la acreditacion de exposiciones previas, no.",
+   "next": "Solo tiene sentido con un socio que aporte la produccion museografica (taller, transporte, montaje itinerante) y la acreditacion de servicios similares; Numen pondria el concepto, el diseno de la experiencia y los recursos interactivos/DUA. Si no hay socio cerrado antes del 21/10, se deja pasar.",
+   "read_from": "anuncio",
+   "updated": "2026-10-07T03:40+02:00"
   },
   {
    "id": "bdns:933716",
