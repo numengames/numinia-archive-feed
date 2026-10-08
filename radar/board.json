@@ -1,25 +1,6 @@
 {
  "about": "The tender radar's ranked calls: UNREVIEWED. Written by automation (AUT-069); a call enters the archive only as a record, through a reviewed pull request.",
- "published": "2026-10-08T12:29+02:00",
+ "published": "2026-10-08T21:32+02:00",
  "filter": "chance alta or media only. Discards are not published.",
- "items": [
-  {
-   "id": "placsp:20571233",
-   "source": "PLACSP",
-   "kind": "licitacion",
-   "title": "Servicio de desarrollo de las actividades socioculturales y educativas en los museos estatales",
-   "buyer": "Junta de Contratación del Ministerio de Cultura",
-   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=agwkQnxzB07N3k3tjedSGw%3D%3D",
-   "closes": "2026-10-29 19:00",
-   "amount": "734.131,69 € sin IVA (15 lotes, uno por museo; valor estimado total 2.202.395 €)",
-   "buys": "Desarrollo de actividades socioculturales y educativas en 15 museos estatales (Altamira, América, ARQUA, Arte Romano, Artes Decorativas, Cervantes, Cerámica, Cerralbo, Escultura, Greco, MAN, Romanticismo, Sefardí, Sorolla, Traje). Cada lote incluye bolsa de horas de educador y oferta técnica.",
-   "fit": "alto",
-   "chance": "media",
-   "blocker": "Solvencia según puntos 9.1 y 9.2 del PCAP (no leído en detalle). Criterios: 45% precio, 49% oferta técnica, 6% bolsa de horas. La oferta técnica pesa casi la mitad.",
-   "why": "Las actividades educativas y culturales en museos encajan directamente con OPS-018 §4 (cultura, patrimonio, educación). El criterio de oferta técnica (49%) permite diferenciarse con una propuesta de talleres gamificados o experiencias 3D. El contrato es grande (734k) y con 15 lotes hay donde elegir. Pero la solvencia puede ser un muro.",
-   "next": "Leer el PCAP completo (puntos 9.1 y 9.2) para conocer los requisitos de solvencia. Si son asumibles, preparar oferta técnica para 2-3 lotes de museos (priorizar Madrid: MAN, América, Sorolla). Numen aportaría talleres de patrimonio gamificados o experiencias 3D educativas.",
-   "read_from": "anuncio",
-   "updated": "2026-10-02T18:43+02:00"
-  }
- ]
+ "items": []
 }
