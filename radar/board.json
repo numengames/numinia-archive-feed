@@ -1,6 +1,27 @@
 {
  "about": "The tender radar's ranked calls: UNREVIEWED. Written by automation (AUT-069); a call enters the archive only as a record, through a reviewed pull request.",
- "published": "2026-10-08T21:32+02:00",
+ "published": "2026-11-05T23:42+01:00",
  "filter": "chance alta or media only. Discards are not published.",
- "items": []
+ "items": [
+  {
+   "id": "placsp:20779906",
+   "source": "PLACSP",
+   "kind": "licitacion",
+   "title": "Servicios de diseño, desarrollo, producción, implantación, soporte y mantenimiento de una solución integral de formación inmersiva basada en Realidad Virtual",
+   "buyer": "Mutua Universal Mugenat, Mutua Colaboradora con la Seguridad Social nº 10",
+   "url": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=T%2BF5Ns16daqGCFcHcNGIlQ%3D%3D",
+   "closes": "2026-11-11 14:00",
+   "amount": "59.040 € sin IVA (71.438,40 € con IVA); 12 meses; no armonizado, abierto simplificado",
+   "buys": "Una solución de formación inmersiva en RV (diseño, desarrollo, producción, implantación, soporte y mantenimiento) para desarrollo y evaluación de competencias de la plantilla de la mutua; área proponente Innovación y transformación. Puntúan además 'incremento de recursos interactivos' y 'incremento del volumen de dispositivos hardware'.",
+   "fit": "medio",
+   "chance": "media",
+   "blocker": "No se pudo leer el PCAP ni el PPT (la mutua los sirve con certificado digital y la PLACSP los bloquea). Sin confirmar: importe de facturación anual exigido (si es ~1,5x el valor estimado, 88k, supera los 50k de Numen), si piden contratos similares previos (LCSP 90.4 protege a una empresa de menos de 5 años en no armonizados) y si el equipo mínimo/adscripción de medios exige perfiles propios. Los 3 pts de hardware indican que algunos dispositivos entran en la oferta.",
+   "why": "Objeto muy cercano a OPS-012 (formación inmersiva para ensayar un procedimiento), importe y procedimiento a medida de una micro, 60% precio y 40% juicio de valor. Contratos de servicios sin armonización: la solvencia técnica por trabajos previos no se puede exigir a una empresa de menos de 5 años.",
+   "next": "Hoy: pedir el PCAP y el PPT por el canal publicado (contratacion@mutuauniversal.net, +34 934848521 o el perfil del contratante) y comprobar volumen de negocio exigido y adscripción de medios; decidir antes del 9 nov. Si el volumen de negocios o el equipo mínimo superan lo que Numen tiene, descartar. Registrar la solicitud de ROLECE como presentada si se pide.",
+   "read_from": "anuncio",
+   "contact_email": "contratacion@mutuauniversal.net",
+   "web": "https://registrocontratistas.mutuauniversal.net/licitacion/descargaExpediente.do?propuestaid=2026/006A000057",
+   "updated": "2026-11-05"
+  }
+ ]
 }
