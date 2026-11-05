@@ -1,0 +1,11 @@
+version = 1
+SPDX-PackageName = "numinia-archive-feed"
+SPDX-PackageSupplier = "Numen Games S.L."
+SPDX-PackageDownloadLocation = "https://github.com/numengames/numinia-archive-feed"
+
+# Data only: everything here is CC0-1.0 (see README.md, STD-010).
+[[annotations]]
+path = "**"
+precedence = "closest"
+SPDX-FileCopyrightText = "2026 Numen Games S.L."
+SPDX-License-Identifier = "CC0-1.0"
